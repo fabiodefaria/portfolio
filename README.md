@@ -1,1 +1,3 @@
 # portfolio
+
+Still trying to upload my static website files...
